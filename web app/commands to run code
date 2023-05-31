@@ -1,0 +1,29 @@
+to run it first time
+in backend
+
+>> pip install -r requirements
+
+in frontend
+
+>> npm install -g vite
+>> npm install
+
+
+
+
+to run the website and server
+
+
+
+backend
+
+>> cd backend
+>> python main.py
+
+Frontend
+
+>> cd frontend
+>> npm run dev
+>> npm run host (if you want to show mobile)
+
+dont run on brave
